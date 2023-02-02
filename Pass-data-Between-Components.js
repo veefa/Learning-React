@@ -1,3 +1,5 @@
+// Passing Data Between Component with state and props
+
 import React from "react";
 
 function ParentComponent() {
@@ -20,3 +22,7 @@ function ParentComponent() {
   }
 
   export default ParentComponent;
+
+  // Passing Data Between Component with context API
+
+  
